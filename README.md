@@ -94,3 +94,10 @@ rqt
 # Then open "Plugins" > "Visualization" > "Image View"
 # Select topic: `/processed_image`
 ```
+
+## ⚠️ Disclaimer
+
+This project is intended solely for educational and research purposes.  
+It is **not recommended for real-world surveillance, tracking, or operational use**.  
+If you choose to use it beyond educational settings, **you are solely responsible for any outcomes, liabilities, or consequences**.
+
