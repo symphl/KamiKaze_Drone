@@ -37,7 +37,7 @@ Follow these steps **from scratch** if you are setting up on a fresh machine:
 6. **Clone this repository**
     ```bash
     cd ~
-    git clone https://github.com/<your-username>/drone_project.git
+    git clone https://github.com/symphl/drone_project.git
     cd drone_project
     ```
 
